@@ -29,7 +29,7 @@ Follow these instructions to get the Auto Turtle Race Game up and running on you
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/Auto_Turtle_Race_Game.git
+   git clone https://github.com/NoorMahammad-S/Auto_Turtle_Race_Game.git
    ```
 
 2. Change to the project directory:
