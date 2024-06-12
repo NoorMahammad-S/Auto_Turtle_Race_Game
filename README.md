@@ -96,5 +96,4 @@ Contributions are welcome! If you'd like to contribute to the Auto Turtle Race G
 - This project was inspired by the classic turtle race game.
 - Special thanks to the Python community for their support and contributions.
 
-
 Happy racing! 🐢🏁
