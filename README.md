@@ -90,7 +90,6 @@ Contributions are welcome! If you'd like to contribute to the Auto Turtle Race G
 
 7. Create a pull request to the `main` branch of the original repository.
 
-
 ## Acknowledgments
 
 - This project was inspired by the classic turtle race game.
